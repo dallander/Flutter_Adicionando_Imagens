@@ -22,7 +22,7 @@ class MeuApp extends StatelessWidget {
               AssetImage("assets/logo.jpg"),
               width: double.infinity,
               fit: BoxFit.fitWidth,
-           
+            
             ), 
             //ADICIONANDO IMAGEM DA ITERNET
             Image.network('https://www.google.com.br/google.jpg'),
