@@ -20,8 +20,7 @@ class MeuApp extends StatelessWidget {
             //ADICIONA O DIRETORIO NOVO QUE VOCÊ CRIOU CHAMADO ASSETS
             Image(image: 
               AssetImage("assets/logo.jpg"),
-              width: double.infinity,
-              fit: BoxFit.fitWidth,
+              
            
             ), 
             //ADICIONANDO IMAGEM DA ITERNET
